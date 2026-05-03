@@ -3,7 +3,8 @@
 <img width="1036" height="1023" alt="Screenshot 2026-05-03 095315" src="https://github.com/user-attachments/assets/cac1fe82-35f3-4f7a-b4e5-48e009d3e177" />
 
 
-
+Screen Record:
+https://drive.google.com/drive/folders/1nuoUvupptWiuRLhHkcyf2X61M1AqWaoy?usp=sharing
 
 
 
