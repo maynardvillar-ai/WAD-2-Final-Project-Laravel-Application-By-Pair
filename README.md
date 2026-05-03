@@ -4,7 +4,7 @@ Submitted by Maynard Villar and , Mac Savandal
 Course Requirement: Laravel Application Development
 
 Project Overview:
-> We developed this application as an integrated system that combines a Personal Task Manager with a Seller Inventory System. Our primary objective was to demonstrate the proper implementation of core Laravel features, including role-based access control, data ownership enforcement, and complex database relationships. We built this system using the Laravel framework, integrated with Inertia.js and React for the frontend.
+> We developed this application as an integrated system that combines a Personal Task Manager with a Seller Inventory System. Our primary objective was to demonstrate the proper implementation of core Laravel features, including role based access control, data ownership enforcement and complex database relationships. We built this system using the Laravel framework, integrated with Inertia.js and React for the frontend.
 
 
 
